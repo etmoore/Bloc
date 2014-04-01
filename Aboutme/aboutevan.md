@@ -1,5 +1,5 @@
 
-![Headshot](/images/headshot.jpg)
+![Headshot](Aboutme/images/headshot.jpg)
 Evan Moore
 =========
 
