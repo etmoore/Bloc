@@ -1,6 +1,7 @@
 
-![Headshot](Aboutme/images/headshot.jpg)
+![Headshot](/images/headshot.jpg)
 Evan Moore
+![Puppy](/images/puppy.jpg)
 =========
 
 Introduction
