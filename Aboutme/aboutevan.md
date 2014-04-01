@@ -7,7 +7,7 @@ Introduction
 ------
 Hello, Oliver! I'm looking forward to our first session tomorrow.
 
-A bit about me: I live in Colorado with my beautiful wife, [Eileen](), who teaches kindergarten. I've always been interested in the web, but about a year ago I decided that I wanted to make a career change and become a developer. Though I've enjoyed self-study, I believe I'll benefit tremendously from Bloc's apprenticeship model. I'm thrilled to have you as my mentor - Juline spoke of you highly.
+A bit about me: I live in Colorado with my beautiful wife, Eileen, who teaches kindergarten. I've always been interested in the web, but about a year ago I decided that I wanted to make a career change and become a developer. Though I've enjoyed self-study, I believe I'll benefit tremendously from Bloc's apprenticeship model. I'm thrilled to have you as my mentor - Juline spoke of you highly.
 
 I've included a mini-resume below to give you a sense of my background (as well as practice my markdown syntax). I'm eager to hear more about your background and why you chose to become a Bloc mentor.
 
