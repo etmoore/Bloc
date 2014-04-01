@@ -1,5 +1,5 @@
 
-![Headshot](https://github.com/etmoore/Bloc/blob/master/Aboutme/images/headshot.jpg)
+![Headshot](https://github.com/etmoore/Bloc/blob/master/Aboutme/images/headshot.jpg?raw=true)
 Evan Moore
 =========
 
